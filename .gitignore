@@ -30,3 +30,4 @@ backend/.env
 # General
 *.log
 *.DS_Store
+node_modules
